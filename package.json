@@ -1,0 +1,17 @@
+{
+  "name": "node-biblioteca",
+  "version": "1.0.0",
+  "description": "site de uma loja de livros virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valeria",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-load": "^1.1.16",
+    "mysql": "^2.15.0"
+  }
+}
